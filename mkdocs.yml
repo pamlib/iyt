@@ -1,13 +1,13 @@
 site_name: Help
 site_url: https://github.com/pamlib/iyt/
-repo_name: pamlib/iyt
+repo_name: infinite/help
 repo_url: https://github.com/pamlib/iyt
 
 theme:
   name: material
   custom_dir: docs/assets/overrides
-  logo: assets/Logo_Transparent.png
-  favicon: assets/Logo_Transparent.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     scheme: fusion-dark
     primary: black
