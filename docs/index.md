@@ -3,10 +3,10 @@
 <style>
 a.arrow-link::after {
   content: "->";
-	display: inline-block;
-	margin-left: 0.25em;
-	margin-right: 0.25em;
-	transition: margin 0.2s ease;
+  display: inline-block;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+  transition: margin 0.2s ease;
 }
 a.arrow-link:hover::after {
   margin-left: 0.5em;
