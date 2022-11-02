@@ -24,6 +24,8 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Tutorials:
+    - Get Started: tutorials/index.md
 
 markdown_extensions:
   - admonition
