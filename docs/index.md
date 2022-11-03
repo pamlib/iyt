@@ -14,7 +14,7 @@ a.arrow-link:hover::after {
 }
 </style>
 
-If anything is outdated, open a issue on the github (go to it by clicking `infinite/help` next to the search bar.
+If anything is outdated, open a issue on the github (go to it by clicking `infinite/help` next to the search bar)
 
 <p>Find stuff using the search bar near the top right!</p>
 
