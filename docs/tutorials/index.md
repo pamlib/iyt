@@ -34,6 +34,10 @@ Basically, `Filtering Enabled` (`FE`) disables client modification of server val
 
 As Roblox says: "Enabling `Filtering Enabled` is the best way of restricting exploiters from ruining your games. When it is enabled, with a few exceptions, changes made by clients will not replicate to the server (and therefore will not replicate to other clients). This means, if your game is properly designed, exploiters will find it much harder to operate in your game."
 
+"But my friend said he can disable FE and it's possible!"
+
+Shut up, no it's not. He lied to you, you gullible piece of-
+
 ## Can I copy games?
 
 Sorta.
