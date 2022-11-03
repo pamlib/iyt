@@ -13,3 +13,29 @@ Anything with the 🌟 emoji are my preferred options. (My opinion, do not expec
 <a href="https://script-ware.com/ios">Scriptware iOS (Free if you purchase Scriptware M) (Apple Devices)</a>
 
 <a href="https://krnl.place">KRNL (Free)</a>
+
+a href="https://wearedevs.net/d/Fluxus">Fluxus</a>
+
+<a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U</a>
+
+## What is FE?
+
+"Why can't I run require(id) scripts?" - 🤡
+
+`Filtering Enabled` is a form of anti-exploiting Roblox has implemented.
+
+Basically, `Filtering Enabled` (`FE`) disables client modification of server values, or in simpler words, the client can't make changes to the game.
+
+As Roblox says: "Enabling `Filtering Enabled` is the best way of restricting exploiters from ruining your games. When it is enabled, with a few exceptions, changes made by clients will not replicate to the server (and therefore will not replicate to other clients). This means, if your game is properly designed, exploiters will find it much harder to operate in your game."
+
+## Can I copy games?
+
+Sorta.
+
+Your executor needs to have a decompiler. Because of `Filtering Enabled` you can not save server scripts, only module scripts and local scripts.
+
+If your executor has a decompiler you can just run:
+
+```lua
+saveinstance()
+```
