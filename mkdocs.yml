@@ -26,6 +26,11 @@ nav:
   - Home: index.md
   - Tutorials:
     - Get Started: tutorials/index.md
+    - Infinite Yield:
+      - Executing: infiniteyield/executing.md
+      - Getting Plugins: infiniteyield/gettingplugins.md
+      - Installing Plugins: infiniteyield/installingplugins.md
+      - Using Plugins: infiniteyield/usingplugins.md
 
 markdown_extensions:
   - admonition
