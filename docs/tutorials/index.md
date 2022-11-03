@@ -18,7 +18,7 @@ Anything with the 🌟 emoji are my preferred options. (My opinion, do not expec
 
 <a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U (Free)</a>
 
-<p>I'd like to give huge credit to <a href="https://www.reddit.com/r/robloxhackers/comments/ok3hsg/beginners_exploit_guide">this</a> since I'm extremely lazy and tired.</p>
+<p>For literally all the information below, I'd like to give huge credit to <a href="https://www.reddit.com/r/robloxhackers/comments/ok3hsg/beginners_exploit_guide">this</a> since I'm extremely lazy and tired.</p>
 
 ## Why do most free executors have key systems?
 
