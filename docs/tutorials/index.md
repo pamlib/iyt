@@ -2,7 +2,7 @@
 
 Anything with the 🌟 emoji are my preferred options. (My opinion, do not expect them to be the best)
 
-## Executors
+## Recommended Executors
 
 <a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
 
@@ -36,7 +36,7 @@ As Roblox says: "Enabling `Filtering Enabled` is the best way of restricting exp
 
 Sorta.
 
-Your executor needs to have a decompiler. Because of `Filtering Enabled` you can not save server scripts, only module scripts and local scripts.
+Your executor needs to have a decompiler. Because of `Filtering Enabled` you can not save server scripts, only the map, module scripts, and local scripts.
 
 If your executor has a decompiler you can just run:
 
