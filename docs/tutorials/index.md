@@ -20,6 +20,16 @@ Anything with the 🌟 emoji are my preferred options. (My opinion, do not expec
 
 <p>For literally all the information below, I'd like to give huge credit to <a href="https://www.reddit.com/r/robloxhackers/comments/ok3hsg/beginners_exploit_guide">this</a> since I'm extremely lazy and tired.</p>
 
+## What is a executor?
+
+An exploit is the use of glitches and software vulnerabilities in Roblox by a player to alter the game or gameplay for an unfair advantage.
+
+Many users believe that the correct term for programs that change Roblox for a player's advantage is "**exploiting**", and others believe "**hacking**" is the correct term. However, **hacking** is the act of *gaining unauthorized access to a system* while **exploiting** is *abusing a vulnerability* to do the same.
+
+## Why does my computer say it's a virus?
+
+Antiviruses usually mistake executors as viruses due to their nature. Most (if not all) modern executors work by *injecting* some sort of *DLL* file into Roblox and running Lua code (Scripts) in the environment it creates.
+
 ## Why do most free executors have key systems?
 
 The reason for this executor having a key system is to support the developers of the executor (maintaining one is time consuming and hard work), this is for them to keep updating the exploits, domains, and feeding their staff.
