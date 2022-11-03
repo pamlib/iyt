@@ -14,9 +14,13 @@ Anything with the 🌟 emoji are my preferred options. (My opinion, do not expec
 
 <a href="https://krnl.place">KRNL (Free)</a>
 
-a href="https://wearedevs.net/d/Fluxus">Fluxus</a>
+<a href="https://wearedevs.net/d/Fluxus">Fluxus (Free)</a>
 
-<a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U</a>
+<a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U (Free)</a>
+
+## Why do most free executors have key systems?
+
+The reason for this executor having a key system is to support the developers of the executor (maintaining one is time consuming and hard work), this is for them to keep updating the exploits, domains, and feeding their staff.
 
 ## What is FE?
 
