@@ -1,6 +1,6 @@
 <script src="../assets/index.js"></script>
 
-Anything with the 🌟 emoji is my preferred options. (My opinion, do not expect them to be the best)
+Anything with the 🌟 emoji are my preferred options. (My opinion, do not expect them to be the best)
 
 ## Executors
 
