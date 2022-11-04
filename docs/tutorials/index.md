@@ -39,12 +39,12 @@ Antiviruses usually mistake executors as viruses due to their nature. Most (if n
 If you don't know what a false positive is, it means a program is detected as a virus even though it isn't a virus.
 
 !!! example "Windows Solution"
-	1. Turn off your antivirus.
+	1. Turn off your antivirus
 	2. CTRL + J
 	3. Click "Keep dangerous file"
 
 !!! example "Mac Solution"
-	I don't have a Mac to test out a solution so if you know of a solution open a issue on the github (go to it by clicking `infinite/help` next to the search bar).
+	I don't have a Mac to test out a solution so if you know of a solution open a issue on the github (go to it by clicking `infinite/help` next to the search bar)
 
 ## Why does it say Roblox has been updated, please wait for an un-patch?
 
