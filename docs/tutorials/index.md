@@ -101,3 +101,15 @@ If your executor has a decompiler you can just run:
 ```lua
 saveinstance()
 ```
+
+## What are some safe websites to get scripts?
+
+under maintenance
+
+## I want to learn how to script Roblox Lua, but how?
+
+First of all, learning how to fully understand scripting is very hard as the progress can take to months, or years.
+
+What you need is dedication, you won't be able to understand the basics in just a day. But if you're autistic enough maybe you will.
+
+<p>If you want to learn how to make simple scripts, and also intermediate ones I'd recommend <a href="https://www.reddit.com/r/robloxhackers/comments/ok3hsg/beginners_exploit_guide">wYn#0001's tutorials</a>, the tutorials are very good and he also teaches you how a UI Library works.</p>
