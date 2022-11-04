@@ -102,9 +102,25 @@ If your executor has a decompiler you can just run:
 saveinstance()
 ```
 
+## What is a Workspace folder?
+
+The Workspace folder is a folder that's in your executor's folder. That's alot of folders.
+
+!!! example "How to find it"
+	1. Open the folder where your executor is located
+	2. Look for a folder named `workspace`
+	
+	If it doesn't exist, your executor is garbage. Get a executor from the top of this page under `Recommended Executors`.
+
 ## What are some safe websites to get scripts?
 
-under maintenance
+I recommend you use an adblocker when you visit some of these websites.
+
+<a href="https://robloxscripts.com">robloxscripts</a>
+
+<a href="https://v3rmillion.net">v3rmillion</a>
+
+<a href="https://rscripts.net">rscripts</a>
 
 ## I want to learn how to script Roblox Lua, but how?
 
