@@ -36,6 +36,10 @@ Use executors at your own risk, always use an alt. Just remember you are breakin
 
 Antiviruses usually mistake executors as viruses due to their nature. Most (if not all) modern executors work by *injecting* some sort of *DLL* file into Roblox and running Lua code (Scripts) in the environment it creates.
 
+Just make sure you downloaded the executors on their official websites, as other people can skid them and add viruses into them.
+
+If you have **trust issues** don't get an exploit.
+
 ## I know that the executor is a false positive, but how am I suppose to download it now?
 
 If you don't know what a false positive is, it means a program is detected as a virus even though it isn't a virus.
@@ -46,7 +50,23 @@ If you don't know what a false positive is, it means a program is detected as a 
 	3. Click "Keep dangerous file"
 
 !!! example "Mac Solution"
-	I don't have a Mac to test out a solution so if you know of a solution open a issue on the github (go to it by clicking `infinite/help` next to the search bar)
+	I don't have a Mac to test out a solution.
+
+## How do I check if I'm going to get banned in the next banwave, or if I'm tainted?
+
+!!! example "Windows Solution"
+	1. Win + R `%appdata%`
+	2. Go out of the `Roaming` folder
+	3. Go into the `Local` folder
+	4. Find the folder named `Roblox`
+	5. Open the `Logs` file
+	
+	If you find an archive file in there open one of them and you'll see if you're tainted
+	
+	If it says `IsTainted=false` you're basically safe. If it says `IsTainted=true` you'll be banned in the next banwave.
+
+!!! example "Mac Solution"
+	I don't have a Mac to test out a solution.
 
 ## Why does it say Roblox has been updated, please wait for an un-patch?
 
