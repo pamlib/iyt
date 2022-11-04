@@ -36,8 +36,7 @@ Antiviruses usually mistake executors as viruses due to their nature. Most (if n
 
 ## I know that the executor is a false positive, but how am I suppose to download it now?
 
-!!! note
-	If you don't know what a false positive is, it means a program is detected as a virus even though it isn't a virus.
+If you don't know what a false positive is, it means a program is detected as a virus even though it isn't a virus.
 
 !!! example "Windows Solution"
 	1. Turn off your antivirus.
