@@ -2,6 +2,8 @@
 
 Anything with the 🌟 emoji are my preferred options. (My opinion, do not expect them to be the best)
 
+"hello welcoem to infinit tek suport mi nam is toon" - zach
+
 ## Recommended Executors
 
 <a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
