@@ -34,6 +34,19 @@ Use executors at your own risk, always use an alt. Just remember you are breakin
 
 Antiviruses usually mistake executors as viruses due to their nature. Most (if not all) modern executors work by *injecting* some sort of *DLL* file into Roblox and running Lua code (Scripts) in the environment it creates.
 
+## I know that the executor is a false positive, but how am I suppose to download it now?
+
+!!! note
+	If you don't know what a false positive is, it means a program is detected as a virus even though it isn't a virus.
+
+!!! example "Windows Solution"
+	1. Turn off your antivirus.
+	2. CTRL + J
+	3. Click "Keep dangerous file"
+
+!!! example "Mac Solution"
+	I don't have a Mac to test out a solution so if you know of a solution open a issue on the github (go to it by clicking `infinite/help` next to the search bar).
+
 ## Why does it say Roblox has been updated, please wait for an un-patch?
 
 Roblox updates every Wednesday or Tuesday (depending on your timezone). The executors at the beginning of this page with a star are my preferred ones you get because they are good and update fast (within five minutes to two hours).
