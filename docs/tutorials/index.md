@@ -2,8 +2,6 @@
 
 Anything with the 🌟 emoji are my preferred options. (My opinion, do not expect them to be the best)
 
-"hello welcoem to infinit tek suport mi nam is toon" - zach
-
 ## Recommended Executors
 
 <a href="https://x.synapse.to">Synapse X (Windows) ($20 USD) 🌟</a>
@@ -19,8 +17,6 @@ Anything with the 🌟 emoji are my preferred options. (My opinion, do not expec
 <a href="https://wearedevs.net/d/Fluxus">Fluxus (Free)</a>
 
 <a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U (Free)</a>
-
-<p>For literally all the information below, I'd like to give huge credit to <a href="https://www.reddit.com/r/robloxhackers/comments/ok3hsg/beginners_exploit_guide">this</a> since I'm extremely lazy and tired.</p>
 
 ## What is an executor?
 
