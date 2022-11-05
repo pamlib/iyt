@@ -14,9 +14,9 @@ a.arrow-link:hover::after {
 }
 </style>
 
-<p>If anything is outdated, open a <a href="https://github.com/infyiff/help/issues">issue on the github</a> (go to it by clicking `infinite/help` next to the search bar)</p>
+<p>If anything is outdated or you want to add more to the site, open a <a href="https://github.com/infyiff/help/issues">issue on the github</a></p>
 
-Find stuff using the search bar near the top right!
+You can find stuff by using keywords (example: `executor`) with the search bar near the top right.
 
 <img src="assets/search.png" alt="search bar">
 
