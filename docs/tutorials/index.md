@@ -18,6 +18,8 @@ Anything with the 🌟 emoji are my preferred options. (My opinion, do not expec
 
 <a href="https://wearedevs.net/d/Oxygen%20U">Oxygen U (Free)</a>
 
+"hello welcoem to infinit tek suport mi nam is toon" - zach
+
 ## What is an executor?
 
 An exploit is the use of glitches and software vulnerabilities in Roblox by a player to alter the game or gameplay for an unfair advantage.
