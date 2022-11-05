@@ -31,7 +31,6 @@ nav:
       - Getting Plugins: infiniteyield/gettingplugins.md
       - Installing Plugins: infiniteyield/installingplugins.md
       - Using Plugins: infiniteyield/usingplugins.md
-  - Credits: credits/index.md
 
 markdown_extensions:
   - admonition
