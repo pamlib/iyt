@@ -1,3 +1,9 @@
+---
+  hide:
+    - toc
+    - navigation
+---
+
 <script src="assets/index.js"></script>
 <style>
 a.arrow-link::after {
