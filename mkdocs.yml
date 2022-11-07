@@ -27,11 +27,11 @@ nav:
   - Tutorials:
     - Get Started: tutorials/index.md
     - Infinite Yield:
-      - Executing: infiniteyield/executing.md
-      - Getting Plugins: infiniteyield/gettingplugins.md
-      - Installing Plugins: infiniteyield/installingplugins.md
-      - Using Plugins: infiniteyield/usingplugins.md
-    - Common Issues: issues/index.md
+      - Executing: inf/executing.md
+      - Getting Plugins: inf/gettingplugins.md
+      - Installing Plugins: inf/installingplugins.md
+      - Using Plugins: inf/usingplugins.md
+    - Common Issues: tutorials/issues.md
 
 markdown_extensions:
   - admonition
