@@ -31,6 +31,7 @@ nav:
       - Getting Plugins: inf/gettingplugins.md
       - Installing Plugins: inf/installingplugins.md
       - Using Plugins: inf/usingplugins.md
+      - Creating Plugins: inf/creatingplugins.md
     - Common Issues: tutorials/issues.md
 
 markdown_extensions:
