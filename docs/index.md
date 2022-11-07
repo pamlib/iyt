@@ -4,20 +4,9 @@
     - navigation
 ---
 
+
+<link rel="stylesheet" href="assets/para.css">
 <script src="assets/index.js"></script>
-<style>
-a.arrow-link::after {
-  content: "->";
-  display: inline-block;
-  margin-left: 0.25em;
-  margin-right: 0.25em;
-  transition: margin 0.2s ease;
-}
-a.arrow-link:hover::after {
-  margin-left: 0.5em;
-  margin-right: 0em;
-}
-</style>
 
 <p>If anything is outdated or you want to add more to the site, open a <a href="https://github.com/infyiff/help/issues/new">issue on the github</a></p>
 
