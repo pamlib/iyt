@@ -1,5 +1,4 @@
 <script src="assets/index.js"></script>
-
 <style>
 a.arrow-link::after {
   content: "->";
