@@ -6,7 +6,7 @@
 
 
 <link rel="stylesheet" href="assets/para.css">
-<script src="assets/index.js"></script>
+<script src="assets/scroll.js"></script>
 
 <p>If anything is outdated or you want to add more to the site, open a <a href="https://github.com/infyiff/help/issues/new">issue on the github</a></p>
 
