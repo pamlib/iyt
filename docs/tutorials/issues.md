@@ -1,8 +1,8 @@
-<script src=".../assets/index.js"></script>
+<script src="../../assets/index.js"></script>
 
 ## Why does the script not load?
 
-<img src=".../assets/stuck_loop.png" alt="infinite loading">
+<img src="../../assets/stuck_loop.png" alt="infinite loading">
 
 !!! example "File Corruption"
 	1. Go into the folder where your executor is located
