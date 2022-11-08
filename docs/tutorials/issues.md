@@ -1,4 +1,4 @@
-<script src="../../assets/index.js"></script>
+<script src="../../assets/scroll.js"></script>
 
 ## Why does the script not load?
 
