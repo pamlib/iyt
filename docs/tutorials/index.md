@@ -1,4 +1,4 @@
-<script src="../assets/index.js"></script>
+<script src="../assets/scroll.js"></script>
 
 Anything with the 🌟 emoji are my preferred options. (My opinion, do not expect them to be the best)
 
